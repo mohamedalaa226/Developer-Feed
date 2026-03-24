@@ -18,7 +18,7 @@ export function Header() {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center gap-2">
             
-            <a href="http://localhost:5173/" className="text-xl font-bold tracking-tight text-foreground hidden sm:block">
+            <a href="https://developer-feed-smnn.vercel.app/" className="text-xl font-bold tracking-tight text-foreground hidden sm:block">
               DevFeed
             </a>
           </div>
