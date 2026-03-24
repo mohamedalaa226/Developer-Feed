@@ -1,0 +1,26 @@
+# dependencies
+node_modules/
+
+# build files
+build/
+dist/
+
+# env
+.env
+.env.local
+
+# logs
+npm-debug.log*
+pnpm-debug.log*
+
+# editor
+.vscode/
+.idea/
+
+# system
+.DS_Store
+Thumbs.db
+
+# repl files (optional)
+.replit
+replit.nix
